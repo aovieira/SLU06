@@ -4,3 +4,4 @@ leite
 pão
 manteiga
 cebola
+ovos
